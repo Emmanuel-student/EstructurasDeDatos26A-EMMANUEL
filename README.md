@@ -1,2 +1,7 @@
 # EstructurasDeDatos26A-EMMANUEL
-In this repository I will upload my homeworks of this subject "Data Structures" 
+This repository contains activities completed during class.
+
+I use this space to practice modifying code, documenting my work, and improving my English.
+
+Some activities may be updated or refined over time as I continue learning.
+
