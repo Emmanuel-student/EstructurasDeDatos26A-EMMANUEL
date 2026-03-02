@@ -1,0 +1,275 @@
+221503412
+Lopez Arce
+Daniel Alejandro
+2023
+8
+15
+COMPU
+2023
+8
+15
+84.27
+221514689
+Martinez Ruiz
+Carlos Eduardo
+2024
+5
+7
+ICOM
+2024
+5
+7
+91.54
+221527903
+Hernandez Soto
+Luis Fernando
+2024
+1
+10
+INNI
+2024
+1
+10
+76.9
+221498120
+Garcia Perez
+Jorge Ivan
+2024
+5
+7
+LQFB
+2024
+5
+7
+88.13
+221562774
+Ramirez Torres
+Miguel Angel
+2023
+8
+22
+COMPU
+2023
+8
+22
+92.08
+221533980
+Sanchez Molina
+Juan Pablo
+2024
+5
+7
+ICOM
+2024
+5
+7
+69.45
+221509461
+Flores Diaz
+Oscar Emmanuel
+2024
+1
+15
+INNI
+2024
+1
+15
+85.72
+221587204
+Castillo Vega
+Ricardo Alberto
+2024
+5
+7
+LQFB
+2024
+5
+7
+90.66
+221472815
+Ortega Cruz
+Fernando Isaac
+2023
+8
+20
+COMPU
+2023
+8
+20
+78.34
+221536409
+Morales Jimenez
+Diego Armando
+2024
+5
+7
+ICOM
+2024
+5
+7
+82.91
+221594120
+Vazquez Romero
+Adrian Saul
+2024
+1
+10
+INNI
+2024
+1
+10
+74.88
+221481367
+Navarro Pineda
+Kevin Alexander
+2024
+5
+7
+LQFB
+2024
+5
+7
+89.02
+221567934
+Rios Calderon
+Emmanuel Josue
+2023
+8
+18
+COMPU
+2023
+8
+18
+93.47
+221520488
+Luna Herrera
+Brandon Esteban
+2024
+5
+7
+ICOM
+2024
+5
+7
+80.16
+221498755
+Aguilar Salas
+Hector Manuel
+2024
+1
+12
+INNI
+2024
+1
+12
+71.39
+221582300
+Mendoza Campos
+Julian Andres
+2024
+5
+7
+LQFB
+2024
+5
+7
+86.55
+221469821
+Ponce Ibarra
+Roberto Elias
+2023
+8
+21
+COMPU
+2023
+8
+21
+77.04
+221513699
+Cortes Beltran
+Ivan Mauricio
+2024
+5
+7
+ICOM
+2024
+5
+7
+88.91
+221591040
+Delgado Nunez
+Angel David
+2024
+1
+10
+INNI
+2024
+1
+10
+67.82
+221485276
+Silva Ochoa
+Pablo Enrique
+2024
+5
+7
+LQFB
+2024
+5
+7
+90.1
+221574918
+Mejia Rocha
+Rafael Antonio
+2023
+8
+19
+COMPU
+2023
+8
+19
+83.68
+221508334
+Zamora Bautista
+Samuel Isaac
+2024
+5
+7
+ICOM
+2024
+5
+7
+79.25
+221596701
+Fuentes Carrillo
+Cristian Omar
+2024
+1
+10
+INNI
+2024
+1
+10
+72.44
+221490852
+Reyes Padilla
+Alexis Jonathan
+2024
+5
+7
+LQFB
+2024
+5
+7
+87.93
+221563209
+Campos Villalobos
+Eduardo Luis
+2023
+8
+22
+COMPU
+2023
+8
+22
+81.6

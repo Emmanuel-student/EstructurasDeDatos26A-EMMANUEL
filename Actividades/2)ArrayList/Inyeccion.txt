@@ -1,0 +1,199 @@
+221503412
+Lopez Arce
+Daniel Alejandro
+18/09/2005
+COMPU
+15/08/2023
+84.27
+S
+221514689
+Martinez Ruiz
+Carlos Eduardo
+02/01/2006
+ICOM
+07/05/2024
+91.54
+S
+221527903
+Hernandez Soto
+Luis Fernando
+27/11/2005
+INNI
+10/01/2024
+76.90
+S
+221498120
+Garcia Perez
+Jorge Ivan
+05/06/2006
+LQFB
+07/05/2024
+88.13
+S
+221562774
+Ramirez Torres
+Miguel Angel
+14/03/2005
+COMPU
+22/08/2023
+92.08
+S
+221533980
+Sanchez Molina
+Juan Pablo
+30/12/2006
+ICOM
+07/05/2024
+69.45
+S
+221509461
+Flores Diaz
+Oscar Emmanuel
+11/04/2005
+INNI
+15/01/2024
+85.72
+S
+221587204
+Castillo Vega
+Ricardo Alberto
+09/09/2006
+LQFB
+07/05/2024
+90.66
+S
+221472815
+Ortega Cruz
+Fernando Isaac
+21/02/2006
+COMPU
+20/08/2023
+78.34
+S
+221536409
+Morales Jimenez
+Diego Armando
+17/07/2005
+ICOM
+07/05/2024
+82.91
+S
+221594120
+Vazquez Romero
+Adrian Saul
+01/10/2006
+INNI
+10/01/2024
+74.88
+S
+221481367
+Navarro Pineda
+Kevin Alexander
+13/05/2005
+LQFB
+07/05/2024
+89.02
+S
+221567934
+Rios Calderon
+Emmanuel Josue
+26/08/2006
+COMPU
+18/08/2023
+93.47
+S
+221520488
+Luna Herrera
+Brandon Esteban
+04/04/2005
+ICOM
+07/05/2024
+80.16
+S
+221498755
+Aguilar Salas
+Hector Manuel
+29/01/2006
+INNI
+12/01/2024
+71.39
+S
+221582300
+Mendoza Campos
+Julian Andres
+07/11/2005
+LQFB
+07/05/2024
+86.55
+S
+221469821
+Ponce Ibarra
+Roberto Elias
+15/06/2006
+COMPU
+21/08/2023
+77.04
+S
+221513699
+Cortes Beltran
+Ivan Mauricio
+19/02/2005
+ICOM
+07/05/2024
+88.91
+S
+221591040
+Delgado Nunez
+Angel David
+03/12/2006
+INNI
+10/01/2024
+67.82
+S
+221485276
+Silva Ochoa
+Pablo Enrique
+25/09/2005
+LQFB
+07/05/2024
+90.10
+S
+221574918
+Mejia Rocha
+Rafael Antonio
+08/03/2006
+COMPU
+19/08/2023
+83.68
+S
+221508334
+Zamora Bautista
+Samuel Isaac
+16/07/2005
+ICOM
+07/05/2024
+79.25
+S
+221596701
+Fuentes Carrillo
+Cristian Omar
+12/01/2006
+INNI
+10/01/2024
+72.44
+S
+221490852
+Reyes Padilla
+Alexis Jonathan
+28/10/2005
+LQFB
+07/05/2024
+87.93
+S
+221563209
+Campos Villalobos
+Eduardo Luis
+06/04/2006
+COMPU
+22/08/2023
+81.60
